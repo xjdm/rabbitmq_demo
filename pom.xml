@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
+    <groupId>com.idstaa</groupId>
     <artifactId>rabbitmq_demo</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -16,6 +16,12 @@
         <module>demo05_default_ex</module>
         <module>demo06_routingmode</module>
         <module>demo07_topicmode</module>
+        <module>demo08_spring_rabbitmq_xml</module>
+        <module>demo09_spring_rabbitmq_xml_consumer</module>
+        <module>demo10_spring_rabbitmq_xml_listener</module>
+        <module>demo11_spring_rabbit_anno_producer</module>
+        <module>demo12_spring_rabbit_anno_consumer</module>
+        <module>demo13_spring_rabbit_anno_listener</module>
     </modules>
 
 
