@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo04_fanout" />
+        <module name="demo05_default_ex" />
+        <module name="demo06_routingmode" />
+        <module name="demo03_wq" />
+        <module name="demo01_pAndC" />
+        <module name="demo07_topicmode" />
+        <module name="demo02_rabbitmq" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>
