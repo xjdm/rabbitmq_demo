@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/demo14_springboot_rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/demo15_springboot_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/demo19_delayed_exchange/pom.xml" />
       </list>
     </option>
   </component>

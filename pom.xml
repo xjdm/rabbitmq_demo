@@ -22,6 +22,13 @@
         <module>demo11_spring_rabbit_anno_producer</module>
         <module>demo12_spring_rabbit_anno_consumer</module>
         <module>demo13_spring_rabbit_anno_listener</module>
+        <module>demo20_publisheconfirms_01</module>
+        <module>demo21_persistent</module>
+        <module>demo22_consumerAck</module>
+        <module>demo23_cunsumerQos</module>
+        <module>demo24_tracing</module>
+        <module>demo17_ttl</module>
+        <module>demo18_dlx</module>
     </modules>
 
 

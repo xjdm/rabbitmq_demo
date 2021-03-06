@@ -9,16 +9,24 @@
         <module name="demo08_spring_rabbitmq_xml" />
         <module name="demo05_default_ex" />
         <module name="demo01_pAndC" />
+        <module name="demo24_tracing" />
+        <module name="demo23_cunsumerQos" />
         <module name="demo12_spring_rabbit_anno_consumer" />
         <module name="demo02_rabbitmq" />
         <module name="demo07_topicmode" />
+        <module name="demo20_publisheconfirms_01" />
         <module name="demo04_fanout" />
+        <module name="demo21_persistent" />
         <module name="demo06_routingmode" />
         <module name="demo15_springboot_consumer" />
+        <module name="demo17_ttl" />
         <module name="demo11_spring_rabbit_anno_producer" />
         <module name="demo03_wq" />
+        <module name="demo22_consumerAck" />
         <module name="demo14_springboot_rabbitmq" />
+        <module name="demo18_dlx" />
         <module name="demo13_spring_rabbit_anno_listener" />
+        <module name="demo19_delayed_exchange" />
         <module name="demo09_spring_rabbitmq_xml_consumer" />
         <module name="demo10_spring_rabbitmq_xml_listener" />
       </profile>
@@ -29,6 +37,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo14_springboot_rabbitmq" options="-parameters" />
       <module name="demo15_springboot_consumer" options="-parameters" />
+      <module name="demo19_delayed_exchange" options="-parameters" />
     </option>
   </component>
 </project>
